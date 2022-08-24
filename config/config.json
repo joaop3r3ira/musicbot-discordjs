@@ -1,0 +1,13 @@
+{
+    "prefix": "/",
+    "token": "MTAwODY1NzE1OTkyOTcyOTA2NA.GyGTr6.pXCalCGLcuJDzHjDlPT9ld6v2M-kNWfrPFrTJQ",
+    "mongodb": "mongodb+srv://joaop3r3ira:K324uO5WRIl595LM@cluster0.rf0bgfj.mongodb.net/?retryWrites=true&w=majority",
+    "emoji": {
+      "play": "▶️",
+      "stop": "⏹️",
+      "queue": "📄",
+      "success": "☑️",
+      "repeat": "🔁",
+      "error": "❌"
+    }
+  }

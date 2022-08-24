@@ -1,0 +1,9 @@
+{
+    "languages": [ "english", "portugues"],
+    "translations": {
+        "ADICIONE_URL_OU_KEYWORD": { 
+            "english": "Please enter a song url or query to search.",
+            "portugues": "Por favor, insira um url de uma música ou palavra-chave para pesquisar."
+        }
+    }
+}

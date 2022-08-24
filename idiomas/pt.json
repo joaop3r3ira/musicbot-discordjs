@@ -1,0 +1,9 @@
+{
+    "comandos": {
+        "ajustes":{
+            "prefix": {
+                "variable1": "Tens que especificar o prefixo novo do bot!"
+            }
+        }
+    }
+}
