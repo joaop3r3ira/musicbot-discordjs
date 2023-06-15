@@ -1,0 +1,14 @@
+{
+    "prefix": "!",
+    "token": "MTAwODY1NzE1OTkyOTcyOTA2NA.GH3kfb.Y6M7iXjB-G0sr_NfsNrCjIudNoe5W-UVQpgDr8",
+    "mongodb": "mongodb+srv://joaop3r3ira:qlp2wvSg1xqLQ7WJ@cluster0.rf0bgfj.mongodb.net/?retryWrites=true&w=majority",
+    "openai_api_key": "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",
+    "emoji": {
+      "play": "▶️",
+      "stop": "⏹️",
+      "queue": "📄",
+      "success": "☑️",
+      "repeat": "🔁",
+      "error": "❌"
+    }
+  }
